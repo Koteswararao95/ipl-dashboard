@@ -90,11 +90,12 @@
 🎉 IPL Fans and Enthusiasts
 
 🧠 Coaches and Team Strategists
-✅ 9. Screenshots/Demos
-  Show what the deshbord looks like
-  Example 
+
+ 9. Screenshots/Demos
+  Show what the deshbord looks like. ![Alt text](https://github.com/Koteswararao95/ipl-dashboard/blob/main/Screenshot%202025-12-18%20101510.png)
+  Example  ![Alt text](https://github.com/Koteswararao95/ipl-dashboard/blob/main/Screenshot%202025-12-18%20101510.png)
   
-✅ 9. Conclusion
+✅ 10. Conclusion
 
 🎯 The IPL Analytics Dashboard delivers a comprehensive and interactive view of IPL data, enabling users to gain meaningful insights into team and player performance.
 💡 This project demonstrates strong skills in data analysis, visualization, and storytelling using Power BI.
