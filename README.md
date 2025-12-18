@@ -92,8 +92,8 @@
 🧠 Coaches and Team Strategists
 
  9. Screenshots/Demos
-  Show what the deshbord looks like. ![Alt text](https://github.com/Koteswararao95/ipl-dashboard/blob/main/Screenshot%202025-12-18%20101510.png)
-  Example  ![Alt text](https://github.com/Koteswararao95/ipl-dashboard/blob/main/Screenshot%202025-12-18%20101510.png)
+  Show what the dashbord looks like. ![Alt text](https://github.com/Koteswararao95/ipl-dashboard/blob/main/Screenshot%202025-12-18%20101510.png)
+  Example  ![dashboard](https://github.com/Koteswararao95/ipl-dashboard/blob/main/ipl%20project1powerbi.pbit)
   
 ✅ 10. Conclusion
 
